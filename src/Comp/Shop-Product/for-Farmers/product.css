@@ -1,0 +1,8 @@
+.produit{
+    background-color: hsl(230, 4%, 30%);
+    border: 2px solid black;
+    width: 50rem;
+    border-radius: 10px;
+    margin: 0rem;
+    
+}
