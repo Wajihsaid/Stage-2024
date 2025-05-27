@@ -1,0 +1,9 @@
+
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(©š´µûÿÿÿÿ8®‹™æ‡2J$5fba8384-dbf7-4495-9fd9-a853c4c441a7
+^
+java:S1854@"ARemove this useless assignment to local variable "motelOptional".(ßÔğÂ8ÅØ°æ‡2
+O
+java:S1481@"2Remove this unused "motelOptional" local variable.(ßÔğÂ8ÈØ°æ‡2
+]	java:S125A"<This block of commented-out lines of code should be removed.(ÏÚ¿Ëşÿÿÿÿ8ÔØ°æ‡2
+
+java:S1128"GRemove this unused import 'com.Farmer.Farm4U.Entities.Product.Product'.(Î¹Æ‘ıÿÿÿÿ8¼‹™æ‡2J$34a4ecdf-fe4a-4be9-b4e3-6739a3d8b8d4
